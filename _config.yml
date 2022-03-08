@@ -33,7 +33,7 @@ fontcolourmain: "black"
 backgroundcolour: "beige"
 
 # Google webmaster tools
-google_verify:  
+google_verify: "Ck6CS3ia--jBA9EsAKRI_0t83Uu5JytwX4sL-FZTy4Q"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
