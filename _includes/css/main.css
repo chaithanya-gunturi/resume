@@ -9,3 +9,7 @@ h6,
 p {
   font-family: Verdana, Geneva, sans-serif;
 }
+img {
+  width: 70%;
+  height: 70%;
+}
