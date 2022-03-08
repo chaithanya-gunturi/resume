@@ -1,14 +1,12 @@
 <div class="w3-third">
 
-    <div class="w3-white w3-text-{{site.fontcolour}} w3-card-4">
+    <div class=" w3-text-{{site.fontcolour}} w3-card-4" style="background-color: #a6d8a6;">
         <div class="w3-display-container w3-center">
             <img src="./img/{{ site.userprofile }}"  alt="Avatar">
-            <div class="w3-display-bottomleft w3-container w3-text-{{site.fontcolourmain}}">
-            </div>
-            <h2>{{ site.title}}</h2>
-            <hr>
         </div>
-        <div class="w3-container" style="margin-top: 10px;">
+        <div class="w3-container">
+            <h2 class="w3-text-{{site.fontcolour}} w3-padding-16"><i
+                    class="fa fa-user fa-fw w3-margin-right w3-xxlarge w3-text-{{ site.colour }}"></i>{{ site.title}}</h2>
             <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-{{ site.colour }}"></i>{{ site.designation}}</p>
             <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-{{ site.colour }}"></i>{{ site.location}}</p>
             <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-{{ site.colour }}"></i>{{ site.email}}</p>
@@ -65,10 +63,17 @@
                     <hr>
                 </div>
                 {% endfor %}
+                <div class="w3-center">
+                    <button class="button button1"><a href="../img/Chaithanya Gunturi Resume.pdf" download>Download Resume</a></button>
+                </div>
+                <hr>
+
+                
+                
             </div>
 
         </div>
-    </div><br>
+    </div>
 
     <!-- End Left Column -->
 </div>
