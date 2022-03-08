@@ -9,8 +9,8 @@
                     class="fa fa-user fa-fw w3-margin-right w3-xxlarge w3-text-{{ site.colour }}"></i>{{ site.title}}</h2>
             <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-{{ site.colour }}"></i>{{ site.designation}}</p>
             <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-{{ site.colour }}"></i>{{ site.location}}</p>
-            <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-{{ site.colour }}"></i>{{ site.email}}</p>
-            <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-{{ site.colour }}"></i>{{ site.contact}}</p>
+            <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-{{ site.colour }}"></i><a href="mailto:{{site.email}}?subject=Hello">{{ site.email}}</a></p>
+            <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-{{ site.colour }}"></i><a href="tel:{{site.contact}}">{{ site.contact}}</a></p>
             <hr>
 
             <!--
