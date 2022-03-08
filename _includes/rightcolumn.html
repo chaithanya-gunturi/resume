@@ -1,0 +1,31 @@
+<!-- Right Column -->
+<div class="w3-twothird">
+
+    <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-{{site.fontcolour}} w3-padding-16"><i
+                class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-{{ site.colour }}"></i>Work Experience</h2>
+        
+                {% for experience in site.posts %}
+                <div class="w3-container">
+                    <h4 class="w3-opacity w3-text-{{ site.fontcolour }}" style="text-transform: uppercase;"><b>{{experience.designation}} @ {{experience.company}}</b></h4>
+                    <h6 class="w3-text-{{ site.colour }}"><i class="fa fa-calendar fa-fw w3-margin-right"></i>{{experience.fromdate}}  -  
+                    {%- if {{experience.todate}} == "current" -%}
+                    <span class="w3-tag w3-{{ site.colour }} w3-round" style="margin-left: 5px;">{{experience.todate}}</span>
+                    {% else %}
+                    <i class="fa fa-calendar fa-fw w3-margin-right"></i>{{experience.todate}}
+                    {%- endif -%}
+                    </h6>
+                    <span class="w3-text-{{ site.fontcolour }}">
+                    <p style="margin-top: 25px;">{{ experience.content | markdownify}}</p>
+                    </span>
+                    <hr>
+                </div>
+                {% endfor %}
+                <!--
+        
+        To do: Add logic to swap the style of font-->
+    </div>
+
+    
+    <!-- End Right Column -->
+</div>

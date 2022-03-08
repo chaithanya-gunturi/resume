@@ -1,0 +1,21 @@
+---
+designation: "Test Manager"
+company: "VicRoads"
+fromdate: "Nov 2018"
+todate: "Mar 2019"
+---
+
+Worked on a project to migrate the print house from existing solution to new platform. This involved working with Multiple development team vendors and a test team of 4 people.
+
+**_Roles and Responsibilities_**
+
+- Taking full responsibility for all phases of testing and the management of the testing activities within a development and complex project
+- Defining and owning testing component project plans, fully understand all project and testing assumptions, dependencies, and associated risks
+- Defining and maintaining the testing strategy and various test plans. This should cover both automation and manual testing
+- Undertaking project test estimating, planning & tracking, monitoring, and reporting for the delivery of a test plan against the overall project plan
+- Leading the design of Functional Testcases for all test phases incl. Revenue Manager feature level testing, SYS, INT, UAT and PVT
+- Coordinating of development of automated Test Cases
+- Managing the test preparation phases to produce test effort, resource calculation, test data, test cases, test execution plans, and defect report life cycle flows (it is essential to set up for each- project as developers use different life cycles)
+- Providing direction and guidance for test process improvements
+- Regulating and co-ordinating testing processes and standards across multiple and simultaneous projects and departments, for various browsers, countries, and mobile devices
+- Writing, implementing, and reporting status for system test cases for testing

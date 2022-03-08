@@ -1,0 +1,20 @@
+---
+designation: "Test Analyst"
+company: "IBM India"
+fromdate: "Oct 2007"
+todate: "Aug 2010"
+---
+
+Worked in an onshore-offshore team model and was responsible for day-to-day testing activities (test case creation, execution, defect lifecycle)
+
+**_Roles and Responsibilities_**
+
+- Understand the various Testing processes and terminologies
+- Test Data Management using ALM
+- Communicate efficiently with the Onsite team (verbal and written)
+- Conduct peer reviews
+- Create manual test scripts for testing the application across different testing cycles
+- Execution and Maintenance of these test scripts
+- Interact with a team of both on and offshore test analysts, project managers, developers within team
+- Seek and respond to development feedback
+- Under the supervision of the Test Manager, participate in planning

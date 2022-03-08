@@ -1,0 +1,44 @@
+skills:
+  - title:
+    percentage:
+
+
+languages:
+  - title: 
+    percentage:
+
+education:
+  - title: "UVCE, Bangalore University"
+    duration: "2003-2007"
+    degree: "Bachelor of Engineering"
+    url: "https://uvce.ac.in/"
+
+
+socials:
+  - title: "facebook"
+    url: "https://facebook.com/test"
+  - title: "twitter"
+    url: "https://twitter.com/testing"
+  - title: "snapchat"
+    url: "https://snapchat.com/snapper"
+  - title: "instagram"
+    url: "https://instagram.com/insta"
+  - title: "pinterest"
+    url: "https://pinterest.com/pinta"
+
+certifications:
+  - title: "AWS Certified Cloud Practitioner"
+    date: "Jun 2021"
+    url: "https://www.credly.com/badges/f1d3ee23-798f-4c0f-b729-4bfb84b62a18"
+  - title: "Certified SAFe® 5 Scrum Master"
+    date: "Jul 2020"
+    url: "https://www.credly.com/badges/8eac21bb-1f06-41e1-b3b7-e811a9421928"
+  - title: PRINCE2® Agile Practitioner
+    date: "Feb 2019"
+    url:
+  - title: "PRINCE2® Foundation"
+    date: "Feb 2019"
+    url:
+  - title: "Professional Scrum Master™ I (PSM I)"
+    date: "Aug 2018"
+    url: "https://www.credly.com/badges/7da86e68-141c-44bf-afb6-9ad71f4f5de7"                 

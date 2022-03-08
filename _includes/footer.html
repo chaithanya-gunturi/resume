@@ -1,0 +1,7 @@
+<footer class="w3-container w3-{{ site.colour }} w3-center w3-margin-top">
+    <p>Find me on social media.</p>
+    {% for socials in site.data.sitedata.socials %}
+    <a href="{{socials.url}}">
+    <i class="fa fa-{{socials.title}} w3-hover-opacity"></i></a>
+    {% endfor %}
+</footer>
