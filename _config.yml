@@ -20,10 +20,10 @@
 
 title: Chaithanya Gunturi
 email: chaithanyagvk@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: Chaithanya Gunturi Digital Resume
 userprofile: userprofile.jpg
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://chaithanya-gunturi.github.io/resume/ # the base hostname & protocol for your site, e.g. http://example.com
 designation: "Delivery Lead"
 location: "Melbourne, Australia"
 contact: "0451 501 032"
