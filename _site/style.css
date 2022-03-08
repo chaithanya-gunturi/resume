@@ -31,11 +31,11 @@ img {
 .button1 {
   background-color: white;
   color: indigo;
-  border: 2px solid red;
+  border: 2px solid purple;
 }
 
 .button1:hover {
-  background-color: red;
+  background-color: purple;
   color: white;
 }
 
